@@ -1,0 +1,69 @@
+*{margin: 0px;padding: 0px;font-weight: normal;font-family: Arial,"Microsoft Yahei"}
+li{list-style: none;}
+img{border: none;display: block;}
+a{text-decoration: none;color:#000;}
+.tmallLogo a img{margin-top:30px;margin-bottom: 30px; margin-left: 90px;}
+.loginBg{width: 100%;height: 600px;background-color: #0aafff;position: relative;}
+.loginBg>.loginBg-1{width:1190px;margin: 0 auto;}
+.loginBg>.loginBg-2{width: 370px;height: 400px;background-color: #fff;position: absolute;left: 840px;top:90px;}
+.loginBg>.loginBg-2>.erwei>img{float: right; margin-right: 15px;margin-top: 15px;color: #f00;}
+.loginBg>.loginBg-2>.erwei>.erwei-1{font-size: 12px;width: 117px;height: 29px;line-height: 29px;padding-left: 12px;
+	float: right;margin-top: 15px; background-image: url(../loginImg/tishi.png);background-repeat: no-repeat;}
+.loginBg>.loginBg-2>.login{width: 300px;height: 214px;position: absolute;left: 35px;top: 60px;}
+.loginBg>.loginBg-2>.login>.msg{width: 300px;height: 42px;}
+.loginBg>.loginBg-2>.login .account{width:300px;height: 42px;position: relative;}
+.loginBg>.loginBg-2>.login .account>label{display: inline-block;width: 40px;height: 40px;position: absolute;top: 0px;left: 0px;}
+.loginBg>.loginBg-2>.login .account>input{width: 258px;display:inline-block;height: 40px;padding: 0px 0px 0px 40px; border: 1px solid #ccc;}
+
+.loginBg>.loginBg-2>.login .password{width:300px;height: 42px;position:relative;line-height: 100px;}
+.loginBg>.loginBg-2>.login .password>label{display: inline-block;width: 40px;height: 40px;position: absolute;top: 30px;left: 0px;z-index:1;}
+.loginBg>.loginBg-2>.login .password>input{width: 258px;display:inline-block;height: 40px;padding: 0px 0px 0px 40px; border: 1px solid #ccc;}
+.loginBg>.loginBg-2>.login button{position: absolute;top:185px; width: 300px;height: 42px;
+	background: #AF0000;border: 0px;border-radius: 3px;font-size: 16px;color: white;font-weight: 700;
+	vertical-align: middle;cursor: pointer;}
+.loginBg>.loginBg-2>.login>.logintail{position: absolute;top:250px;left: 160px;font-size: 12px;}	
+.loginBg>.loginBg-2>.login>.logintail>a{margin: 0px 10px;}
+.copybox{width: 100%;
+			height: 243px;
+			margin-top: 30px;}
+.copy{width: 1190px;
+		height: 245px;
+		margin: 0 auto;}
+.copyone-ul{padding-top: 10px;
+			width: 1190px;
+			height: 25px;}
+.copyone{float: left;
+			font-size: 12px;
+			margin-right: 6px;}
+.copytwo{float: left;
+			font-size: 12px;
+			margin-right: 6px;
+			color: white;}
+.copytwo-ul{width: 1190px;
+			height: 25px;
+			line-height: 25px;}
+.copythree-ul{width: 1190px;
+				height: 20px;}
+.copythree{font-size: 12px;
+			margin-right: 64px;
+			float: left;}
+.copytwo2{margin-bottom: 13px;}
+.copylast{width: 200px;
+			height: 50px;
+			margin-top: 14px;}
+.copylast-left{width: 90px;
+				height: 50px;
+				float: left;}
+.copylast-right{width: 110px;
+				height: 50px;
+				float: left;}
+.lasttu1{display: block;
+			width: 73px;
+			height: 32px;}
+.banquan1{width: 73px;
+			height: 32px;}
+.lasttu2{display: block;
+			width: 80px;
+			height: 32px;}
+.banquan2{width: 80px;
+			height: 32px;}

@@ -1,0 +1,61 @@
+*{margin: 0px;padding: 0px;font-weight: normal;font-family: Arial,"Microsoft Yahei"}
+li{list-style: none;}
+img{border: none;display:inline-block;}
+a{text-decoration: none;color:#000;}
+.tmallLogo{padding-bottom: 30px; border-bottom: 1px solid #ccc;}
+.tmallLogo a img{padding-top:30px;padding-left: 90px;}
+.tmallLogo>i{padding: 0px 30px;}
+.tmallLogo>p{display: inline-block;width:200px;font-size: 16px;}
+.register{padding-top: 50px;padding-bottom: 50px;border-bottom: 1px solid #ccc;}
+.register>.inputstyle{width: 700px;height: 70px;margin: 0 auto;line-height: 70px;position: relative;}
+.register>.inputstyle>input{position: absolute;right: 250px;width: 300px;height: 50px;margin: 8px 0px;font-size: 16px;padding-left: 15px;}
+.register>.inputstyle>span{position: absolute;right: -30px;width:230px;height: 50px;line-height:50px;margin: 8px 0px;font-size: 16px;}
+
+.register>.agreement{width: 700px;height: 70px;line-height: 70px;margin: 0 auto;font-size: 14px;}
+.register>.agreement>input{margin-right: 10px;}
+.register>.agreement>button{width: 450px;height: 50px;background: #e22;border: 0px;border-radius: 3px;
+	font-size: 16px;color: white;font-weight: 700;cursor: pointer;}
+.copybox{width: 100%;
+			height: 243px;
+			margin-top: 30px;}
+.copy{width: 1190px;
+		height: 245px;
+		margin: 0 auto;}
+.copyone-ul{padding-top: 10px;
+			width: 1190px;
+			height: 25px;}
+.copyone{float: left;
+			font-size: 12px;
+			margin-right: 6px;}
+.copytwo{float: left;
+			font-size: 12px;
+			margin-right: 6px;
+			color: white;}
+.copytwo-ul{width: 1190px;
+			height: 25px;
+			line-height: 25px;}
+.copythree-ul{width: 1190px;
+				height: 20px;}
+.copythree{font-size: 12px;
+			margin-right: 64px;
+			float: left;}
+.copytwo2{margin-bottom: 13px;}
+.copylast{width: 200px;
+			height: 50px;
+			margin-top: 14px;}
+.copylast-left{width: 90px;
+				height: 50px;
+				float: left;}
+.copylast-right{width: 110px;
+				height: 50px;
+				float: left;}
+.lasttu1{display: block;
+			width: 73px;
+			height: 32px;}
+.banquan1{width: 73px;
+			height: 32px;}
+.lasttu2{display: block;
+			width: 80px;
+			height: 32px;}
+.banquan2{width: 80px;
+			height: 32px;}

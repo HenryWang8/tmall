@@ -1,0 +1,9 @@
+document.getElementById("erwei").onclick=function(){
+	if(document.getElementsByClassName("login")[0].style.display=='block'){
+		document.getElementsByClassName("login")[0].style.display="none";
+		document.getElementsByClassName("login")[1].style.display="block";
+	}else{
+		document.getElementsByClassName("login")[1].style.display="none";
+		document.getElementsByClassName("login")[0].style.display="block";
+	}
+};
